@@ -1,0 +1,61 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "remId": "REM-4521",
+      "name": "Java 8 → 17 Migration",
+      "description": "Upgrading Core Banking API from Java 8 to Java 17 with modern language features",
+      "module": "Core Banking API",
+      "progress": 0,
+      "status": "In Progress",
+      "priority": "High",
+      "createdDate": "2026-02-15",
+      "team": "Factory Team",
+      "targetTech": "Java 17",
+      "sourceTech": "Java 8"
+    },
+    {
+      "id": 2,
+      "remId": "REM-4498",
+      "name": "Java 8 → 17 Migration & Spring Boot 2 → 3 Upgrade",
+      "description": "Modernizing Payment Gateway with Spring Boot 3 and Jakarta EE migration",
+      "module": "Payment Gateway",
+      "progress": 45,
+      "status": "In Progress",
+      "priority": "Medium",
+      "createdDate": "2026-02-18",
+      "team": "Payment Services",
+      "targetTech": "Spring Boot 3.x",
+      "sourceTech": "Spring Boot 2.x"
+    },
+    {
+      "id": 3,
+      "remId": "REM-4387",
+      "name": "Legacy COBOL Wrapper",
+      "description": "Creating Java wrapper for legacy COBOL account services",
+      "module": "Account Services",
+      "progress": 92,
+      "status": "Review",
+      "priority": "High",
+      "createdDate": "2026-02-01",
+      "team": "Core Banking",
+      "targetTech": "Java 17 Wrapper",
+      "sourceTech": "COBOL"
+    },
+    {
+      "id": 4,
+      "remId": "REM-4612",
+      "name": "API Modernization",
+      "description": "Converting REST APIs to GraphQL for Customer Portal",
+      "module": "Customer Portal",
+      "progress": 23,
+      "status": "In Progress",
+      "priority": "Low",
+      "createdDate": "2026-02-25",
+      "team": "Digital Experience",
+      "targetTech": "GraphQL",
+      "sourceTech": "REST API"
+    }
+  ],
+  "lastUpdated": "2026-03-01T12:00:00Z"
+}
