@@ -1,0 +1,17 @@
+Updates needed for Java Migration Project Scope:
+
+1. Overview Cards (lines 355-391):
+   - Card 1: Change from "8 Core Modules" to "6 Java Modules"
+   - Card 2: Change from "15 Microservices" to "850 Java Files", icon to ☕ 
+   - Card 3: Keep "45 RESTful Endpoints"
+   - Card 4: Change from "34 Weeks Total" to "22 Weeks Total"
+
+2. Scope Details data (lines 178-200):
+   - Change modules to Java-specific (6 modules instead of 8)
+   - Change phases to Java migration phases (4 phases, 22 weeks)
+
+3. Section text (line 472):
+   - Change from "8 core modules totaling 154,000" to "6 Java modules totaling 110,000"
+
+4. Total LOC display (line 475-476):
+   - Change from "154K" to "110K"

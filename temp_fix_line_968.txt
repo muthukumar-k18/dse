@@ -1,0 +1,8 @@
+The problematic line 968 is:
+<span className={`text-xs px-3 py-1.5 rounded-full font-semibold border ${\\n                          enhancement.category === 'Horizon 1' ? 'bg-cyan-500/20 text-cyan-300 border-cyan-500/40' :\\n                          'bg-purple-500/20 text-purple-300 border-purple-500/40'\\n                        }`}>
+
+Should be:
+<span className={`text-xs px-3 py-1.5 rounded-full font-semibold border ${
+                          enhancement.category === 'Horizon 1' ? 'bg-cyan-500/20 text-cyan-300 border-cyan-500/40' :
+                          'bg-purple-500/20 text-purple-300 border-purple-500/40'
+                        }`}>
