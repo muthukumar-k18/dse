@@ -1,0 +1,132 @@
+{
+  "users": [
+    {
+      "id": "user001",
+      "fullName": "Pramod Nair",
+      "initials": "PN",
+      "email": "pramod.nair@company.com",
+      "roles": ["AFF User", "Migration Expert"],
+      "primaryRole": "Migration Expert",
+      "access": {
+        "canCreateProjects": true,
+        "canViewDashboard": true,
+        "canManageRisks": true,
+        "canSignDocuments": true,
+        "canAccessCode360": true,
+        "canViewAllProjects": true
+      }
+    },
+    {
+      "id": "user002",
+      "fullName": "Jennifer Martinez",
+      "initials": "JM",
+      "email": "jennifer.martinez@company.com",
+      "roles": ["AFF User", "AAF Stakeholder"],
+      "primaryRole": "AAF Stakeholder",
+      "access": {
+        "canCreateProjects": true,
+        "canViewDashboard": true,
+        "canManageRisks": false,
+        "canSignDocuments": true,
+        "canAccessCode360": false,
+        "canViewAllProjects": true
+      }
+    },
+    {
+      "id": "user003",
+      "fullName": "Robert Chen",
+      "initials": "RC",
+      "email": "robert.chen@company.com",
+      "roles": ["Business User", "Business Owner"],
+      "primaryRole": "Business Owner",
+      "access": {
+        "canCreateProjects": false,
+        "canViewDashboard": true,
+        "canManageRisks": false,
+        "canSignDocuments": true,
+        "canAccessCode360": false,
+        "canViewAllProjects": false
+      }
+    },
+    {
+      "id": "user004",
+      "fullName": "Samantha Williams",
+      "initials": "SW",
+      "email": "samantha.williams@techpartner.com",
+      "roles": ["Vendor Representative"],
+      "primaryRole": "Vendor Representative",
+      "access": {
+        "canCreateProjects": false,
+        "canViewDashboard": true,
+        "canManageRisks": true,
+        "canSignDocuments": true,
+        "canAccessCode360": true,
+        "canViewAllProjects": false
+      }
+    },
+    {
+      "id": "user005",
+      "fullName": "Michael Torres",
+      "initials": "MT",
+      "email": "michael.torres@company.com",
+      "roles": ["AFF User", "Migration Expert", "Finance User"],
+      "primaryRole": "Migration Expert",
+      "access": {
+        "canCreateProjects": true,
+        "canViewDashboard": true,
+        "canManageRisks": true,
+        "canSignDocuments": true,
+        "canAccessCode360": true,
+        "canViewAllProjects": true
+      }
+    },
+    {
+      "id": "user006",
+      "fullName": "Sarah Johnson",
+      "initials": "SJ",
+      "email": "sarah.johnson@company.com",
+      "roles": ["Business User", "Project Manager"],
+      "primaryRole": "Project Manager",
+      "access": {
+        "canCreateProjects": true,
+        "canViewDashboard": true,
+        "canManageRisks": true,
+        "canSignDocuments": false,
+        "canAccessCode360": false,
+        "canViewAllProjects": false
+      }
+    },
+    {
+      "id": "user007",
+      "fullName": "David Kumar",
+      "initials": "DK",
+      "email": "david.kumar@company.com",
+      "roles": ["AFF User", "Technical Architect"],
+      "primaryRole": "Technical Architect",
+      "access": {
+        "canCreateProjects": false,
+        "canViewDashboard": true,
+        "canManageRisks": true,
+        "canSignDocuments": false,
+        "canAccessCode360": true,
+        "canViewAllProjects": true
+      }
+    },
+    {
+      "id": "user008",
+      "fullName": "Emily Rodriguez",
+      "initials": "ER",
+      "email": "emily.rodriguez@company.com",
+      "roles": ["Finance User", "Financial Analyst"],
+      "primaryRole": "Financial Analyst",
+      "access": {
+        "canCreateProjects": false,
+        "canViewDashboard": true,
+        "canManageRisks": false,
+        "canSignDocuments": false,
+        "canAccessCode360": false,
+        "canViewAllProjects": true
+      }
+    }
+  ]
+}
