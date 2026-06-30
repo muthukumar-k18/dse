@@ -1,0 +1,205 @@
+{
+  "Scope Summary": [
+    {
+      "id": "devin",
+      "name": "Devin",
+      "description": "Advanced AI software engineer that can autonomously build, test, and deploy complete applications",
+      "icon": "🤖",
+      "specialization": "Autonomous Development",
+      "estimatedTime": "5-7 minutes",
+      "capabilities": ["Full-stack development", "Automated testing", "Code generation", "Bug fixing"]
+    },
+    {
+      "id": "factory-ai",
+      "name": "Factory.AI",
+      "description": "Enterprise AI platform specialized in code modernization and migration workflows",
+      "icon": "🏭",
+      "specialization": "Code Modernization",
+      "estimatedTime": "6-8 minutes",
+      "capabilities": ["Legacy migration", "Code refactoring", "Architecture analysis", "Dependency mapping"]
+    },
+    {
+      "id": "claude-code",
+      "name": "Claude Code",
+      "description": "Advanced AI coding assistant with deep understanding of software architecture and patterns",
+      "icon": "💻",
+      "specialization": "Code Intelligence",
+      "estimatedTime": "4-6 minutes",
+      "capabilities": ["Code analysis", "Documentation", "Pattern recognition", "Technical writing"]
+    }
+  ],
+  "Scope Document": [
+    {
+      "id": "devin",
+      "name": "Devin",
+      "description": "Advanced AI software engineer that can autonomously build, test, and deploy complete applications",
+      "icon": "🤖",
+      "specialization": "Autonomous Development",
+      "estimatedTime": "5-7 minutes",
+      "capabilities": ["Full-stack development", "Automated testing", "Code generation", "Bug fixing"]
+    },
+    {
+      "id": "factory-ai",
+      "name": "Factory.AI",
+      "description": "Enterprise AI platform specialized in code modernization and migration workflows",
+      "icon": "🏭",
+      "specialization": "Code Modernization",
+      "estimatedTime": "6-8 minutes",
+      "capabilities": ["Legacy migration", "Code refactoring", "Architecture analysis", "Dependency mapping"]
+    },
+    {
+      "id": "claude-code",
+      "name": "Claude Code",
+      "description": "Advanced AI coding assistant with deep understanding of software architecture and patterns",
+      "icon": "💻",
+      "specialization": "Code Intelligence",
+      "estimatedTime": "4-6 minutes",
+      "capabilities": ["Code analysis", "Documentation", "Pattern recognition", "Technical writing"]
+    }
+  ],
+  "Migration Plan": [
+    {
+      "id": "devin",
+      "name": "Devin",
+      "description": "Advanced AI software engineer that can autonomously build, test, and deploy complete applications",
+      "icon": "🤖",
+      "specialization": "Autonomous Development",
+      "estimatedTime": "10-12 minutes",
+      "capabilities": ["Full-stack development", "Automated testing", "Code generation", "Bug fixing"]
+    },
+    {
+      "id": "factory-ai",
+      "name": "Factory.AI",
+      "description": "Enterprise AI platform specialized in code modernization and migration workflows",
+      "icon": "🏭",
+      "specialization": "Code Modernization",
+      "estimatedTime": "12-15 minutes",
+      "capabilities": ["Legacy migration", "Code refactoring", "Architecture analysis", "Dependency mapping"]
+    },
+    {
+      "id": "claude-code",
+      "name": "Claude Code",
+      "description": "Advanced AI coding assistant with deep understanding of software architecture and patterns",
+      "icon": "💻",
+      "specialization": "Code Intelligence",
+      "estimatedTime": "8-10 minutes",
+      "capabilities": ["Code analysis", "Documentation", "Pattern recognition", "Technical writing"]
+    }
+  ],
+  "Risk Assessment": [
+    {
+      "id": "devin",
+      "name": "Devin",
+      "description": "Advanced AI software engineer that can autonomously build, test, and deploy complete applications",
+      "icon": "🤖",
+      "specialization": "Autonomous Development",
+      "estimatedTime": "6-8 minutes",
+      "capabilities": ["Full-stack development", "Automated testing", "Code generation", "Bug fixing"]
+    },
+    {
+      "id": "factory-ai",
+      "name": "Factory.AI",
+      "description": "Enterprise AI platform specialized in code modernization and migration workflows",
+      "icon": "🏭",
+      "specialization": "Code Modernization",
+      "estimatedTime": "7-9 minutes",
+      "capabilities": ["Legacy migration", "Code refactoring", "Architecture analysis", "Dependency mapping"]
+    },
+    {
+      "id": "claude-code",
+      "name": "Claude Code",
+      "description": "Advanced AI coding assistant with deep understanding of software architecture and patterns",
+      "icon": "💻",
+      "specialization": "Code Intelligence",
+      "estimatedTime": "5-7 minutes",
+      "capabilities": ["Code analysis", "Documentation", "Pattern recognition", "Technical writing"]
+    }
+  ],
+  "Stakeholder Analysis": [
+    {
+      "id": "devin",
+      "name": "Devin",
+      "description": "Advanced AI software engineer that can autonomously build, test, and deploy complete applications",
+      "icon": "🤖",
+      "specialization": "Autonomous Development",
+      "estimatedTime": "5-7 minutes",
+      "capabilities": ["Full-stack development", "Automated testing", "Code generation", "Bug fixing"]
+    },
+    {
+      "id": "factory-ai",
+      "name": "Factory.AI",
+      "description": "Enterprise AI platform specialized in code modernization and migration workflows",
+      "icon": "🏭",
+      "specialization": "Code Modernization",
+      "estimatedTime": "6-8 minutes",
+      "capabilities": ["Legacy migration", "Code refactoring", "Architecture analysis", "Dependency mapping"]
+    },
+    {
+      "id": "claude-code",
+      "name": "Claude Code",
+      "description": "Advanced AI coding assistant with deep understanding of software architecture and patterns",
+      "icon": "💻",
+      "specialization": "Code Intelligence",
+      "estimatedTime": "4-6 minutes",
+      "capabilities": ["Code analysis", "Documentation", "Pattern recognition", "Technical writing"]
+    }
+  ],
+  "Technical Assessment": [
+    {
+      "id": "devin",
+      "name": "Devin",
+      "description": "Advanced AI software engineer that can autonomously build, test, and deploy complete applications",
+      "icon": "🤖",
+      "specialization": "Autonomous Development",
+      "estimatedTime": "10-12 minutes",
+      "capabilities": ["Full-stack development", "Automated testing", "Code generation", "Bug fixing"]
+    },
+    {
+      "id": "factory-ai",
+      "name": "Factory.AI",
+      "description": "Enterprise AI platform specialized in code modernization and migration workflows",
+      "icon": "🏭",
+      "specialization": "Code Modernization",
+      "estimatedTime": "12-15 minutes",
+      "capabilities": ["Legacy migration", "Code refactoring", "Architecture analysis", "Dependency mapping"]
+    },
+    {
+      "id": "claude-code",
+      "name": "Claude Code",
+      "description": "Advanced AI coding assistant with deep understanding of software architecture and patterns",
+      "icon": "💻",
+      "specialization": "Code Intelligence",
+      "estimatedTime": "8-10 minutes",
+      "capabilities": ["Code analysis", "Documentation", "Pattern recognition", "Technical writing"]
+    }
+  ],
+  "Resource Plan": [
+    {
+      "id": "devin",
+      "name": "Devin",
+      "description": "Advanced AI software engineer that can autonomously build, test, and deploy complete applications",
+      "icon": "🤖",
+      "specialization": "Autonomous Development",
+      "estimatedTime": "7-9 minutes",
+      "capabilities": ["Full-stack development", "Automated testing", "Code generation", "Bug fixing"]
+    },
+    {
+      "id": "factory-ai",
+      "name": "Factory.AI",
+      "description": "Enterprise AI platform specialized in code modernization and migration workflows",
+      "icon": "🏭",
+      "specialization": "Code Modernization",
+      "estimatedTime": "8-10 minutes",
+      "capabilities": ["Legacy migration", "Code refactoring", "Architecture analysis", "Dependency mapping"]
+    },
+    {
+      "id": "claude-code",
+      "name": "Claude Code",
+      "description": "Advanced AI coding assistant with deep understanding of software architecture and patterns",
+      "icon": "💻",
+      "specialization": "Code Intelligence",
+      "estimatedTime": "6-8 minutes",
+      "capabilities": ["Code analysis", "Documentation", "Pattern recognition", "Technical writing"]
+    }
+  ]
+}
